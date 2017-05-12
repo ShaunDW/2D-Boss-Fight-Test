@@ -48,8 +48,10 @@
      <Compile Include="Assets\Stuff\s_BossAI.cs" />
      <Compile Include="Assets\Stuff\s_FollowUV.cs" />
      <Compile Include="Assets\Stuff\s_GameManager.cs" />
+     <Compile Include="Assets\Stuff\s_LaserMove.cs" />
      <Compile Include="Assets\Stuff\s_MeteorManager.cs" />
      <Compile Include="Assets\Stuff\s_MeteorMove.cs" />
+     <Compile Include="Assets\Stuff\s_Player.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
