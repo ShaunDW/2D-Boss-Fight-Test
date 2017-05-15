@@ -4,7 +4,7 @@ using System.Collections;
 public class s_GameManager : MonoBehaviour {
 
 	public GameObject Boss;
-	private Vector3 spawnPos = new Vector3(0,0,0);
+	private Vector3 spawnPos = new Vector3(0,6,0);
 
 	// Use this for initialization
 	void Start () {
